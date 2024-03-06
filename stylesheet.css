@@ -13,7 +13,7 @@ header {
 }
 
 nav {
-    background-color: #444;
+    background-color: #26453E;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -27,13 +27,13 @@ nav {
 }
 
 .nav-link:hover {
-    color: #ADD8E6; /* Change color on hover */
+    color: #6aaec5; /* Change color on hover */
 }
 
 .content-section {
     padding: 20px;
     margin: 10px;
-    background-color: #fff;
+    background-color: #9eb2d4;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
